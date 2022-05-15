@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #F9F7F7;
+}
+
+nav{
+  width: 100%;
+  text-align: right;
+}
+
+nav a{
+  text-decoration: none;
+  color: #F9F7F7;
+}
+
+nav li{
+  display: inline-block;
+  line-height: 70px;
+  width: 20%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #3F72AF;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #3F72AF;
+}
+
+h3 {
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #3F72AF;
+}
+
+h4 {
+  font-size: 0.8rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #F9F7F7;
+}
+
+hr {
+  background-color: #F9F7F7;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DBE2EF;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+.header-container{
+  width: 100%;
+  height: 120px;
+  background-color: #3F72AF;
+}
+
+.header-container-left{
+  width: 50%;
+  height: 100px;
+  background-color: #3F72AF;
+  float: left;
+  margin-top: 10px;
+}
+
+.header-container-right{
+  width: 50%;
+  height: 100px;
+  background-color: #3F72AF;
+  float: left;
+  margin-top: 10px;
+}
+
+.picture-logo{
+  width: 100px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 0px;
+  background-color: #3F72AF;
+}
+
+.top-container {
+  background-color: #DBE2EF;
+  padding-top: 5px;
+}
+
+.middle-container{
+  background-color: #F9F7F7;
+  margin: 0;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.skills{
+  width: 70%;
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+}
+
+.soft-skills{
+  width: 70%;
+  display: inline-block;
+}
+
+.soft-icon{
+  width: 20%;
+  height: 100px;
+  background-color: #F9F7F7;
+  float: left;
+  margin-top: 10px;
+}
+
+.soft{
+  width: 70%;
+  margin:auto;
+}
+
+.soft-text{
+  width: 80%;
+  height: auto;
+  float: left;
+  margin-top: 10px;
+  text-align: left;
+  background-color: #F9F7F7;
+}
+
+.hard-skills{
+  width: 100%;
+  display: inline-block;
+}
+
+.bottom-container{
+  width: 100%;
+  height: 60px;
+  background-color: #3F72AF;
+}

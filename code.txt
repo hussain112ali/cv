@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hussain Alaaraji CV</title>
+  </head>
+  <body>
+    <center>
+      <table cellspacing="30">
+        <tr>
+          <td><img src="IMG/logo.png" alt=""></td>
+          <td><h1>Welcome to My Site</h1></td>
+        </tr>
+      </table>
+      <hr>
+      <center>
+        <table>
+          <tr>
+            <td>
+              <table>
+                <tr>
+                  <td>
+                    <img src="IMG/Profile.png" alt="">
+                  </td>
+                  <td>
+                    <h3>&nbsp Hussain Ali Alaaraji &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</h3>
+                  </td>
+                </tr>
+              </table>
+            </td>
+            <td>
+              <table>
+               <tr>
+                 <td><h2>Work</h2></td>
+               </tr>
+               <tr>
+                 <td>
+                   <p><strong>Job Title: &nbsp</strong>Technical Support Manager</p>
+                   <p><strong>Company: &nbsp</strong>AL LAITH GROUP</p><br>
+                 </td>
+               </tr>
+               <tr>
+                 <td><h2>Soft Skills</h2></td>
+               </tr>
+               <tr>
+                 <td>
+                   <ul>
+                     <li>Teamwork</li>
+                     <li>Problem Solving</li>
+                     <li>Ability to Work Under Pressure and Time Management</li>
+                   </ul>
+                 </td>
+               </tr>
+               <tr>
+                 <td><h2>Hard Skills</h2></td>
+               </tr>
+               <tr>
+                 <td>
+                   <ul>
+                     <li>Computing (Social media, Microsoft Office, Email communication, Spreadsheets and Data visualization)</li>
+                     <li>Computer Networking (Analytics, Troubleshooting, Networking)</li>
+                     <li>Troubleshooting (Analysis, Research, Team-building and Decision making)</li>
+                     <li>Technical knowledge (Common operating systems)</li>
+                     <li>Programming/coding (HTML5, CSS and JavaScript)</li>
+                     <li>Design skills (Photoshop)</li>
+                   </ul>
+                 </td>
+               </tr>
+               <tr>
+                 <td><h2>Languages</h2></td>
+               </tr>
+               <tr>
+                 <td>
+                   <ul>
+                     <li>Arabic: Home language</li>
+                     <li>English (Listening, Reading, Speaking and Writing)</li>
+                   </ul>
+                 </td>
+               </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </center>
+    </center>
+  </body>
+</html>
